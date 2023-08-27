@@ -1,0 +1,237 @@
+.header {
+   background: url("/img/bg\ image\ 1.svg");
+   height: 100vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100vw;
+   background-position: center;
+
+}
+
+body {
+   margin: 0px;
+}
+
+.container {
+   margin: 0 174px 0 119px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.header-line {
+   padding-top: 40px;
+   display: flex;
+   align-items: center;
+}
+
+.header-logo {}
+
+.nav-item {
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 12px;
+   font-weight: 700;
+   line-height: 16px;
+   letter-spacing: 0.1em;
+   text-align: left;
+   text-decoration: none;
+   margin-right: 48px;
+   text-transform: uppercase;
+   gap:48px;
+}
+
+.img1 {
+   border-right: 1px solid #FFFFFF;
+   padding-right: 28px;
+   height: 30px;
+   position: relative;
+   padding-left: 55px;
+}
+
+.cart-img {
+   position: absolute;
+   top: 13px;
+   right: 21px;
+}
+
+.eng {
+   margin-top: 10px;
+   position: absolute;
+   padding-left: 18px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 12px;
+   font-weight: 700;
+   line-height: 16px;
+   letter-spacing: 0.1em;
+   text-align: left;
+   text-decoration: none;
+   margin-right: 48px;
+   text-transform: uppercase;
+}
+
+.nav {
+   padding-left: 174px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.language {
+   margin-top: 65px;
+   position: relative;
+   margin-left: 180px;
+}
+
+.game-image {
+   display: flex;
+   margin-left: 21px;
+   gap: 21px;
+}
+
+.game-1 {
+   justify-content: space-between;
+}
+
+.eng-1 {
+   width: 28px;
+   height: 17px;
+   font-family: Open Sans;
+   font-size: 12px;
+   font-weight: 700;
+   line-height: 16px;
+   letter-spacing: 0.1em;
+   color: #FFFFFF;
+   text-decoration: none;
+   margin: 0 0 0 6.35px;
+   text-transform: uppercase;
+   gap: 2px;
+
+
+}
+
+.eng-2 {
+   width: 28px;
+   height: 17px;
+   font-family: Open Sans;
+   font-size: 12px;
+   font-weight: 700;
+   line-height: 16px;
+   letter-spacing: 0.1em;
+   color: #FFB548;
+   text-decoration: none;
+   margin: 0 0 0 6.35px;
+   text-transform: uppercase;
+   gap: 2px;
+}
+
+.language-2 {
+   width: 54px;
+   height: 65.59711456298828px;
+   background: #010101;
+   padding: 2.79px 0 0 0;
+}
+
+.survive {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 80px;
+   margin: 280px 0 0 -340px;
+}
+
+.nav1 {
+   margin: 280px 0 0 0;
+}
+
+.surviver {
+   font-family: Bebas Neue;
+   font-size: 60px;
+   font-weight: 400;
+   line-height: 80px;
+   letter-spacing: 3px;
+   text-align: center;
+   text-transform: uppercase;
+   color: #FFFFFF;
+}
+
+.experience {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.experience-1 {
+   height: 29px;
+   font-family: Bebas Neue;
+   font-size: 24px;
+   font-weight: 400;
+   line-height: 29px;
+   letter-spacing: 2px;
+   color: #FFFFFF;
+   margin: 0 0 0 540px;
+   text-transform: uppercase;
+}
+
+.buy {
+   width: 260px;
+   height: 59.999969482421875px;
+   margin: 18px 0 0 -300px;
+   background: linear-gradient(194.68deg, #FFB548 11.27%, #F3AF34 90.4%);
+   border: 1px solid #FFB548;
+   border-radius: 5px;
+   display: flex;
+   align-items: center;
+}
+
+.buy-now {
+   width: 148.20587158203125px;
+   height: 24px;
+   text-decoration: none;
+   font-family: Open Sans;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 22px;
+   letter-spacing: 0px;
+   color: #1A1917;
+   margin: 0 0 0 18.5px;
+}
+
+.devider-1 {
+   height: 24.00000000000002px;
+   opacity: 0.5px;
+   margin: 0 0 0 12px;
+}
+
+.dolars {
+   width: 51.07080078125px;
+   height: 22px;
+   font-family: Open Sans;
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 22px;
+   letter-spacing: 0px;
+   color: #1A1917;
+   margin: 0 0 0 12px;
+}
+
+.under {
+   margin: 200px 0 0 810px;
+   font-family: Open Sans;
+   font-size: 12px;
+   font-weight: 700;
+   line-height: 22px;
+   letter-spacing: 0px;
+   color: #FFFFFF;
+   height: 22px;
+   text-transform: uppercase;
+}
+.under-img{
+   margin: 0px 0 0 20px;
+}
+.button{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
